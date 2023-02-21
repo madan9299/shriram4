@@ -6,3 +6,8 @@ print("addition = ",a+b)
 
 d = a/b
 print("division",d)
+
+# code for multiplication
+
+c= a*b
+print(c)
